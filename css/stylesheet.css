@@ -11,5 +11,6 @@ padding-left: 24px;
 padding-right: 24px;
 }
 html {
-background-color: Aquamarine
+background: radial-
+gradient(circle, Aquamarine, Aquamarine 50%, LightCyan 50%, Aquamarine);
 }
